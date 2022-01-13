@@ -1,0 +1,41 @@
+_repo: Philosophumena-Volume-II-Refutation-of-all-Heresies_67116
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Legge, George Francis
+    gutenberg_agent_id: '54121'
+    url: http://www.gutenberg.org/2009/agents/54121
+creator:
+  author:
+    agent_name: Hippolytus, Antipope
+    aliases:
+    - Ippolito, di Roma, Antipope
+    - Hippolytos, Antipope
+    - Hippolytus, of Porto, Antipope
+    - Hippolytus, Concordia, Antipope
+    - Hippolytus, of Rome, Antipope
+    - Hippolytus, Saint
+    deathdate: 235
+    gutenberg_agent_id: '51516'
+    url: http://www.gutenberg.org/2009/agents/51516
+    wikipedia: https://en.wikipedia.org/wiki/Hippolytus_of_Rome
+description: ''
+gutenberg_issued: '2022-01-07'
+identifiers:
+  gutenberg: '67116'
+language: en
+pgterms:marc904: https://archive.org/details/philosophumenaor02hipp
+pgterms:marc905: 20200521072736hippolytus
+pgterms:marc906: '1921'
+pgterms:marc907: GB
+production_note: Wouter Franssen and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: United Kingdom :The Macmillan Co.,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Philosophumena, Volume II: Refutation of all Heresies'
+url: http://www.gutenberg.org/ebooks/67116
