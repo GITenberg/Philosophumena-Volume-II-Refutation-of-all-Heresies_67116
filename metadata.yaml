@@ -5,6 +5,9 @@ contributor:
     agent_name: Legge, George Francis
     gutenberg_agent_id: '54121'
     url: http://www.gutenberg.org/2009/agents/54121
+covers:
+- cover_type: archival
+  image_path: 67116-h/images/cover.jpg
 creator:
   author:
     agent_name: Hippolytus, Antipope
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51516
     wikipedia: https://en.wikipedia.org/wiki/Hippolytus_of_Rome
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67116#Philosophumena-Volume-II-Refutation-of-all-Heresies
 gutenberg_issued: '2022-01-07'
 identifiers:
   gutenberg: '67116'
